@@ -28,5 +28,21 @@ An Azure Disk was attached to the virtual machine for additional storage capacit
 ## 5. VM Connected Using RDP
 RDP was used to connect to the VM using its assigned public IP address.
 
+### 1. Screenshot of Resource Group Creation
+![Resource Group](https://github.com/ilafurt/azure-vm-assignment/blob/main/resourcegroups.PNG)
+
+### 2. Screenshot of Virtual Network and Subnet Setup
+![Virtual Network](https://github.com/ilafurt/azure-vm-assignment/blob/main/virtualnetwork.PNG)
+
+### 3. Screenshot of the Virtual Machine with Public IP
+![Virtual Machine](https://github.com/ilafurt/azure-vm-assignment/blob/main/virtualmachine.PNG)
+
+### 4. Screenshot Showing the Azure Disk Attached to the VM
+![Azure Disk](https://github.com/ilafurt/azure-vm-assignment/blob/main/azuredisk.PNG)
+
+### 5. Screenshot of the Desktop Connection (RDP)
+![Desktop Connection](https://github.com/ilafurt/azure-vm-assignment/blob/main/desktop.PNG)
+
+
 ## Conclusion
 This project successfully demonstrates the setup of a basic Azure environment, including a Virtual Machine, Public IP, Virtual Network, and Azure Disk. By following the above steps, a similar infrastructure was created in Azure, which can be applied for various use cases.
